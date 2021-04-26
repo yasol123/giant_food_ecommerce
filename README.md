@@ -6,6 +6,7 @@ For my employer, I built an ecommerce to serve online customers those who run a 
 # 1. Front-end (Vue)
 
 npm i
+
 npm run runserve
 
 URL: http://localhost:8080/
