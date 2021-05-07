@@ -7,7 +7,7 @@ For my employer, I built an ecommerce to serve online customers those who run a 
 
 npm i
 
-npm run runserve
+npm run serve
 
 URL: http://localhost:8080/
 
